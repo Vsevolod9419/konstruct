@@ -1,0 +1,31 @@
+header {
+	background: url(../img/bg-head.webp);
+	background-size: 100% 100%;/*cover*/
+	padding: 41px 0 71px 0;
+}
+
+.logo{
+	width: 102px;
+	margin: 0 auto 306px;
+}
+h1{
+  text-align: center;
+}
+.logo_text{
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-bottom: 221px;
+	}
+
+	.logo_text_under {
+		font-weight: 700;
+font-size: 11px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 3.7px;
+color: #FFFFFF;
+	}
