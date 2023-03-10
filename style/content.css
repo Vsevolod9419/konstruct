@@ -1,0 +1,115 @@
+h2{
+	font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+letter-spacing: 2.3px;
+color: #48555B;
+margin-bottom: 11px;
+}
+p.border{
+text-align: center;
+margin-bottom: 54px;
+}
+span.border{
+	border-top: 1px solid #00A4E5;
+}
+
+.content{
+	display: flex;
+	margin-bottom: 129px;
+}
+
+.content__box{
+	width: 50%;
+}
+
+.content__text {
+	margin-bottom: 30px;
+	font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.1875px;
+color: #48555B;
+}
+.content__text2 {
+padding: 0 65.5px 0 0;
+}
+
+.imp{
+	color: #00A4E5;
+}
+
+.img__box__gen{
+	display: flex;
+	justify-content: space-around;
+
+}
+.img__box {
+	padding: 15px 0 0 13px;
+}
+.text_img {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	align-items: center;
+	letter-spacing: 0.1875px;
+	color: #FFFFFF;
+}
+.box1 {
+	background-image: url(../img/plan2x.webp);
+	background-size: cover;
+	background-position: center;
+	height: 225px;
+	width: 140px;
+}
+
+.box2 {
+	background-image: url(../img/manage2x.webp);
+	background-size: cover;
+	background-position: center;
+	height: 225px;
+	width: 140px;
+}
+.box3{
+	background-image: url(../img/build2x.webp);
+	background-size: cover;
+	background-position: center;
+	height: 225px;
+	width: 140px;
+}
+
+.capabiliti {
+	display: flex;
+	justify-content: space-between;
+margin-bottom: 78px;
+}
+.capabiliti__text {
+	font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 2.30625px;
+color: #48555B;
+}
+.our{
+	border-bottom: 1px solid #00A4E5;
+}
+.capabiliti__text2 {
+	width: 405px;
+	font-weight: 400;
+font-size: 11px;
+line-height: 19px;
+letter-spacing: 0.2px;
+color: #48555B;
+}
+.capabiliti__link {
+	width: 150px;
+height: 40px;
+background: #00A4E5;
+font-weight: 700;
+font-size: 13px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+}

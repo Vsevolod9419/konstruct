@@ -18,3 +18,11 @@ ul{
 a{
 	text-decoration: none;
 }
+p.text{
+	font-weight: 400;
+font-size: 13px;
+line-height: 23px;
+align-items: center;
+letter-spacing: 0.1875px;
+color: #48555B;
+}
