@@ -8,3 +8,13 @@ img{
 	display: block;
 	width: 100%;
 }
+.container{
+	max-width: 941px;
+	margin: 0 auto;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
