@@ -62,3 +62,9 @@ background: #00A4E5;
 width: 150px;
 margin: 0 auto;
 }
+.footer__bg__link:hover{
+	background-color: #e6f4f3;
+	color: #066b93;
+	transition: color 0.5s, background-color 1s ;
+	
+}

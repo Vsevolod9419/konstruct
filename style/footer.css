@@ -1,0 +1,49 @@
+footer{
+	background: #171819;
+}
+.foot1 {
+	padding: 30px;
+	text-align: center;
+}
+.email_label {
+	font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.846154px;
+color: #FFFFFF;
+margin-right: 70px;
+}
+.email {
+	padding-bottom: 1px;
+	width: 250px;
+height: 40px;
+background: #FFFFFF;
+border: 1px solid #979797;
+}
+button{
+	padding: 11px 49px;
+	font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+background: #00A4E5;
+border: none;
+}
+button:hover{
+	background-color: #171819;
+	transition: background-color 1s;
+}
+.foot2 {
+	padding: 22px;
+	text-align: center;
+}
+.footer {
+	font-weight: 400;
+font-size: 11px;
+line-height: 15px;
+letter-spacing: 0.846154px;
+color: #FFFFFF;
+}
