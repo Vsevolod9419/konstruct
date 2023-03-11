@@ -1,5 +1,4 @@
-.project__section {
-}
+
 .project {
 	display: flex;
 	justify-content: space-between;
@@ -57,7 +56,6 @@ line-height: 40px;
 text-align: center;
 letter-spacing: 0.5px;
 color: #FFFFFF;
-background-color: ;
 background: #00A4E5;
 width: 150px;
 margin: 0 auto;
