@@ -1,3 +1,6 @@
+.content__section{
+margin-bottom: 78px;
+}
 h2{
 	font-weight: 700;
 font-size: 18px;
@@ -82,7 +85,6 @@ padding: 0 65.5px 0 0;
 .capabiliti {
 	display: flex;
 	justify-content: space-between;
-margin-bottom: 78px;
 }
 .capabiliti__text {
 	font-weight: 700;
@@ -93,6 +95,7 @@ color: #48555B;
 }
 .our{
 	border-bottom: 1px solid #00A4E5;
+	padding-bottom: 10px;
 }
 .capabiliti__text2 {
 	width: 405px;
@@ -112,4 +115,9 @@ line-height: 40px;
 text-align: center;
 letter-spacing: 0.5px;
 color: #FFFFFF;
+}
+.capabiliti__link:hover{
+	background-color: #9ed0e3;
+	color: #066b93;
+	transition: color 0.5s;
 }
